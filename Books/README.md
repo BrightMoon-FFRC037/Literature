@@ -21,6 +21,12 @@ I have encountered numerous books in various dsciplines. Some of them have been 
 ## Biology
 ### Melocular Bioigy
 * Bruce Alberts, Rebecca Heald, Alexander Johnson, David Morgan, Martin Raff, Keith Roberts, Peter Walter, *Molecular Biology of the Cell*, W. W. Norton & Company, 2022.
+### Biochemistry
+* David L. Nelson, Michael M. Cox, *Lehninger
+Principles of Biochemistry*, W. H. Freeman and Company, 2013.
+### Physical Biology
+* Rob Phillips, Jane Kondev, Julie Theriot, Hernan G. Garcia, *Physical Biology
+of the Cell*, Garland Science, 2013.
 ## Electrical Engineering
 * B. P. Lathi, *Signal Processing and Linear Systems*, Oxford University Press, New York, Oxford, 2010. 
 ## Computer Science
