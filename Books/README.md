@@ -1,6 +1,7 @@
-# Intrduction (List)
+# Intrduction 
 I have encountered numerous books in various dsciplines. Some of them have been read through, while some of them have not. I want to set up this file to keep track on my reading behaviour.
 
+# List
 ## Methodology
 ## Mathematics
 ### Analysis
