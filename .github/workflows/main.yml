@@ -1,0 +1,18 @@
+name: Trigger Web-repo Workflow
+
+on:
+  push:
+    branches:
+      - main  # Or specify other branches
+
+jobs:
+  notify-repo-b:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Workflow in Web-repo
+        run: |
+          curl -X POST \
+          -H "Accept: application/vnd.github.v3+json" \
+          -H "Authorization: token ${{ secrets.Check_Literature_Update }}" \
+          https://api.github.com/repos/BrightMoon-FFRC037/brightmoon-ffrc037.github.io/dispatches \
+          -d '{"event_type":"repo_a_updated"}'
