@@ -20,6 +20,7 @@
 |average-size human chromosome|$150\times10^6$ nucleotides|
 |mitochondrion|length: $1\sim2\mu \mathrm{m}$<br>width: $0.1\sim 0.5 \mu \mathrm{m}$|
 |TATA box to transcription start site|30 nucleotides upstream|
+|CTD of RNA polymerase|$52\times 7$ amino acids|
 
 
 
@@ -98,6 +99,11 @@
 |general transcription factors<br>(eukaryote)<br>TFIIA, TFIIB, TFIID...|to begin transcription|
 |TBP<br>TATA-binding protein|a subunit of TFIID to bind TATA box|
 |CTD<br>C-terminal domain, tail of RNA polymerase|be phosphorylated by TFIIH<br>make polymerase disengage from general transcription factors|
+|activator|bind to enhancer to attract general transcription factors and RNA polymerase II|
+|mediator|1.allow activator communicate with RNA polymeraseII<br>2.position TFIIH near CTD|
+|elongation factors|keep RNA polymerase elongating|
+|DNA topoisomerase<br>called DNA gyrase in bacteria||
+
 
 ## Homologous Recombination (HR)
 
@@ -137,27 +143,38 @@
 |transcription unit|transcribed segment of DNA|
 |promoter||
 |TATA box|in promoter to bind TBP, a subunit of TFIID|
+|enhancer||
 
 
 # 5.Complex
 
 * The DNA Replication Fork
-* transcription initiation complex
+* Transcription initiation complex/machinery
+* RNA-processing machinery
 
-# 6.Disease
+# 6.Signal
+
+## Phosphorylation
+
+|Position|Effect|
+|-|-|
+|Ser5 in CTD of RNA polymerase|1.polymerase disengages from general transcription factors<br>2.RNA-processing machinery load onto the polymerase|
+
+
+# 7.Disease
 
 |Cause|Disease|
 |-|-|
 |deficient mismatch proofreading|a type of colon cancer: HNPCC|
 
-# 7.Techniques
+# 8.Techniques
 
 |Technoques|Applications|
 |-|-|
 |autoradiography|eukaryotic chromosome replication:<br>rate and direction|
 |Atomic Force Microscope<br>AFM|get 3D contour map of the surface<br>resolueion:<br>0.1 nm in the vertical dimension<br>0.5~1.0 nm in the lateral dimension|
 
-# 8.Models
+# 9.Models
 
 * Lac repressor
     * $\text{strength of repression} = f(\text{distance between two binding sites})$
