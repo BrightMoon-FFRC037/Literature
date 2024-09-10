@@ -173,11 +173,19 @@
 |-|-|
 |autoradiography|eukaryotic chromosome replication:<br>rate and direction|
 |Atomic Force Microscope<br>AFM|get 3D contour map of the surface<br>resolueion:<br>0.1 nm in the vertical dimension<br>0.5~1.0 nm in the lateral dimension|
+|2D polyacrylamide gel electrophoresis|separate proteins according to size and charge|
 
 # 9.Models
 
 * Lac repressor
-    * $\text{strength of repression} = f(\text{distance between two binding sites})$
+  * $\text{strength of repression} = f(\text{distance between two binding sites})$
 
-# This is for a test
-prepare 
+* *E.coli*
+  * $\text{growth rate} = f(\text{initial buoyant mass})$
+  * Binomial partitioning model of
+mRNA and proteins
+
+
+
+
+
