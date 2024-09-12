@@ -11,6 +11,8 @@
 
 |Strip|Length|
 |-|-|
+|a bacterial cell|$1\mu \text{m}$|
+|a frog egg|1mm|
 |Leading Strand|$\infty$|
 |Lagging Strand|1000~2000 nuleotides for bacteria<br>100~200 nuleotitdes for eukaryotes|
 |RNA primers|10 nuleotides for eukaryotes|
@@ -49,6 +51,7 @@
 
 |Object|Number|
 |-|-|
+|Species on the planet|$10^8$|
 |replication origin|bacteria: 1<br>eukaryote: 30,000~50,000|
 |unicellular bacterium|500 genes|
 |a human|25,000 genes|

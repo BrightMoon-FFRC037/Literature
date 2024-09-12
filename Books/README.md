@@ -1,5 +1,5 @@
-# Intrduction 
-I have encountered numerous books in various dsciplines. Some of them have been read through, while some of them have not. I want to set up this file to keep track on my reading behaviour.
+# Introduction 
+I have encountered numerous books in various disciplines. Some of them have been read through, while some of them have not. I want to set up this file to keep track on my reading behaviors.
 
 # List
 ## Methodology
@@ -8,6 +8,8 @@ I have encountered numerous books in various dsciplines. Some of them have been 
 * C.Gasquet, P.Witomski, Translated by R.Ryan, *Fourier Analysis and Applications: Filtering, Numerical Computation, Wavelets*, Springer, 1999.
 ### Algebra
 * Sheldon Axler, *Linear Algebra Done Right*, Springer, 2024.
+### Probability and Statistics
+* David F. Anderson, Timo Seppalainen, Benedek Valko, *Introduction to Probability*, Cambridge University Press, 2018.
 ## Physics
 ### Thermal Physics
 * Daniel V.Schroeder, An Introduction to Thermal Physics, Oxford University Press, 2021.
@@ -20,8 +22,9 @@ I have encountered numerous books in various dsciplines. Some of them have been 
 ### Computational Chemistry
 * Errol G. Lewars, *Computational Chemistry: Introduction to the Theory and Applications of Molecular an Quantum Mechanics*, Springer, 2011.
 ## Biology
-### Melocular Bioigy
+### Molecular Biology and Cell Biology
 * Bruce Alberts, Rebecca Heald, Alexander Johnson, David Morgan, Martin Raff, Keith Roberts, Peter Walter, *Molecular Biology of the Cell*, W. W. Norton & Company, 2022.
+* Alberts, Heald, Hopkin, Johnson, Morgan, Roberts, Walter, *Essential Cell Biology*, W. W. Norton & Company, 2023.
 ### Biochemistry
 * David L. Nelson, Michael M. Cox, *Lehninger
 Principles of Biochemistry*, W. H. Freeman and Company, 2013.
