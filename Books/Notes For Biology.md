@@ -3,21 +3,23 @@
 
 |Process|Speed|
 |-------|-----|
-|DNA Replication|bacteria: 1000 nuleotides/second<br>eukaryotes: 50 nuleotides/second|
-|each RNA polymerase|50 nuleotides/second|
+|DNA Replication|bacteria: 1000 nuleotides/second<br>eukaryotes: 50 nucleotides/second|
+|each RNA polymerase|50 nucleotides/second|
 |Dividing of *E.coli*|once/30 minutes|
 
 ## Length
 
-|Strip|Length|
+|Item|Length|
 |-|-|
 |a bacterial cell|$1\mu \text{m}$|
+|a ribosome|20 nm|
+|membrane thickness|5 nm|
 |a frog egg|1mm|
 |Leading Strand|$\infty$|
-|Lagging Strand|1000~2000 nuleotides for bacteria<br>100~200 nuleotitdes for eukaryotes|
-|RNA primers|10 nuleotides for eukaryotes|
-|Intervals between RNA primers on lagging strand|100~200 nuleotides|
-|RPA (domains of SSB) covers|8 nuleotides|
+|Lagging Strand|1000~2000 nucleotides for bacteria<br>100~200 nucleotides for eukaryotes|
+|RNA primers|10 nucleotides for eukaryotes|
+|Intervals between RNA primers on lagging strand|100~200 nucleotides|
+|RPA (domains of SSB) covers|8 nucleotides|
 |genome of *E. coli*|$4.6\times10^6$ nucleotide pairs|
 |average-size human chromosome|$150\times10^6$ nucleotides|
 |mitochondrion|length: $1\sim2\mu \mathrm{m}$<br>width: $0.1\sim 0.5 \mu \mathrm{m}$|
@@ -41,7 +43,7 @@
 
 ## Ratio
 
-|Subatances|Ratio|
+|Substances|Ratio|
 |-|-|
 |ATP : dATP|500 : 1|
 |mRNA : RNA|3~5 : 100|
@@ -54,14 +56,24 @@
 |Species on the planet|$10^8$|
 |replication origin|bacteria: 1<br>eukaryote: 30,000~50,000|
 |unicellular bacterium|500 genes|
+|*E.coli*|4,300 genes|
 |a human|25,000 genes|
 |types of mRNA in each cell|10~15|
+|Human fibroblasts|divide 25~40 times in culture|
 
 ## Duration
 
 |Process|Duration|
 |-|-|
 |DNA Synthesis phase<br>S phase|mammalian cell: 8 hours<br>yeast: 40 minutes|
+
+## Time
+
+|Item|Time|
+|-|-|
+|ancestral cells|$3.5\sim 3.8 \times 10^6$ years ago|
+
+
 
 
 
@@ -88,6 +100,7 @@
 |Initiator protein||
 |Helicase loading protein||
 |ORC|origin recognition complex|
+|telomerase|maintain the telomeres|
 
 ## DNA Transcription
 
@@ -147,6 +160,7 @@
 |promoter||
 |TATA box|in promoter to bind TBP, a subunit of TFIID|
 |enhancer||
+|telomere|ends of DNA|
 
 
 # 5.Complex
@@ -175,8 +189,16 @@
 |Technoques|Applications|
 |-|-|
 |autoradiography|eukaryotic chromosome replication:<br>rate and direction|
-|Atomic Force Microscope<br>AFM|get 3D contour map of the surface<br>resolueion:<br>0.1 nm in the vertical dimension<br>0.5~1.0 nm in the lateral dimension|
+|Atomic Force Microscope<br>AFM|get 3D contour map of the surface<br>resolution:<br>0.1 nm in the vertical dimension<br>0.5~1.0 nm in the lateral dimension|
+|transmission electron microscope<br>TEM||
+|scanning electron microscope<br>SEM|look at the surface details of cells (3D)|
+|cryo-electron microscopy|atomic level|
+|X-ray crystallography|atomic level|
+|fluorescent microscope||
+|confocal microscope<br>a specialized fluorescent microscope|3D imaging|
 |2D polyacrylamide gel electrophoresis|separate proteins according to size and charge|
+|interference contrast optics|distinguish the internal structure of a cell|
+|phase contrast optics||
 
 # 9.Models
 

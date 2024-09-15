@@ -8,13 +8,15 @@ I have encountered numerous books in various disciplines. Some of them have been
 * C.Gasquet, P.Witomski, Translated by R.Ryan, *Fourier Analysis and Applications: Filtering, Numerical Computation, Wavelets*, Springer, 1999.
 ### Algebra
 * Sheldon Axler, *Linear Algebra Done Right*, Springer, 2024.
+* Lara Aclock, *How to Think about Abstract Algebra*, Oxford University Press, 2021.
 ### Probability and Statistics
 * David F. Anderson, Timo Seppalainen, Benedek Valko, *Introduction to Probability*, Cambridge University Press, 2018.
+* Jeffrey S. Rossenthal, *A First Look at Rigorous Probability Theory*, World Scientific, 2006.
 ## Physics
 ### Thermal Physics
 * Daniel V.Schroeder, An Introduction to Thermal Physics, Oxford University Press, 2021.
 ### Mechanics
-### Electromagnetics
+### Electromagnetism
 * 陈秉乾, 舒幼生, 胡望雨. 电磁学专题研究. 北京大学出版社, 2021.
 ## Chemistry
 ### Organic Chemistry
