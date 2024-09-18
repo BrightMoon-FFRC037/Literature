@@ -25,6 +25,7 @@
 |mitochondrion|length: $1\sim2\mu \mathrm{m}$<br>width: $0.1\sim 0.5 \mu \mathrm{m}$|
 |TATA box to transcription start site|30 nucleotides upstream|
 |CTD of RNA polymerase|$52\times 7$ amino acids|
+|DNA probe|30 nucleotides|
 
 
 
@@ -119,7 +120,28 @@
 |mediator|1.allow activator communicate with RNA polymeraseII<br>2.position TFIIH near CTD|
 |elongation factors|keep RNA polymerase elongating|
 |DNA topoisomerase<br>called DNA gyrase in bacteria||
+|reverse transcriptase enzyme|from mRNA to cDNA|
 
+### About Signal
+
+|Enzyme|Function|
+|-|-|
+|kinase|phosphotransferase<br>transfer phosphate from organic compounds like ATP|
+|phosphorylase|adding inorganic phosphate|
+|phosphatase|dephosphorylation|
+|calmodulin|relay cytosolic $Ca^{2+}$signal|
+|calmodulin dependent kinases<br>CaM-kinases|autophosphorylation<br> cell memory effect|
+|cyclic-AMP-dependent protein kinase<br>protein kinase A<br>PKA|relay cAMP signal|
+|heterotrimeric GTP-binding protein<br>G protein|relay signal from GPCR|
+|adenylyl cyclase|synthesize cAMP from ATP|
+|cAMP phosphodiesterase|hydrolyze cAMP|
+|G-protein-coupled receptors<br>GPCR|cell surface receptor|
+
+### Molecular Motors
+|Protein|Function|
+|-|-|
+|kinesin||
+|dynein||
 
 ## Homologous Recombination (HR)
 
@@ -185,6 +207,7 @@
 |deficient mismatch proofreading|a type of colon cancer: HNPCC|
 
 # 8.Techniques
+## Microscopy
 
 |Technoques|Applications|
 |-|-|
@@ -195,10 +218,57 @@
 |cryo-electron microscopy|atomic level|
 |X-ray crystallography|atomic level|
 |fluorescent microscope||
-|confocal microscope<br>a specialized fluorescent microscope|3D imaging|
-|2D polyacrylamide gel electrophoresis|separate proteins according to size and charge|
+|confocal microscope<br>a specialized fluorescent microscope|3D imaging<br>150 μm in depth|
+|FRET<br>Fluorescence Resonance Energy Transfer|distance and interactions between molecules|
+|Biosensor<br>FRET as reporting parts combined with sensing parts||
+|FRAP<br>Fluorescence Recovery After Photobleaching|detect protein's kinetic parameters|
 |interference contrast optics|distinguish the internal structure of a cell|
 |phase contrast optics||
+|computed tomography<br>CT<br>and deconvolution|3D<br>40 μm in depth|
+|Structured Illumination Microscopy<br>SIM|100 nm|
+|Stimulated Emission Depletion microscopy<br>STED|20 nm<br>relies on photoswitchable dyes or proteins|
+|Single-Molecule Localization Microscopy<br>SMLM<br>Photoactivated Localization Microscopy<br>PALM<br>Stochastic Optical Reconstruction Microscopy<br>STORM|20 nm<br>relies on photoswitchable dyes or proteins|
+|Expansion Microscopy<br>ExM|detect mRNA|
+|light sheet microscopy|low photobleaching and photodamage<br>3D|
+|total internal reflection fluorescence microscopy<br>TIRF|0.2 μm in depth|
+|2D polyacrylamide gel electrophoresis|separate proteins according to size and charge|
+
+## Recombinant DNA Technology
+
+|Term|Denotation|
+|-|-|
+|Genomic DNA Library<br>Genomic Clone|From Genome in Bacterial Plasmid<br>with introns and extrons|
+|cDNA Library<br>cDNA Clone|From mRNA in Bacterial Plasmid<br>suitable for synthesize protein artificially|
+|Ploymerase Chain Reaction<br>PCR|when complete genome is known<br>under 10,000 nucleotide pairs|
+|DNA denaturation|90 $^\circ$C|
+|DNA renaturation (hybridization)||
+|DNA probe||
+|Fluorescence in situ Hybridization<br>FISH||
+|Gibson assembly|join DNA and plasmid|
+|oligonuleotides|as primer or probe|
+|site-directed mutagenesis|by PCR|
+|restriction nuclease||
+|agarose gel|>500 nucleotides|
+|polyacrilamide gel|<500 nucleotides|
+|oulsed-field gel|chromosome, up to millions nucleotides|
+|bacterial artificial chromosome<br>BAC|maintain very long DNA, up to 1 million nucleotides|
+
+## DNA Sequencing
+
+|Method|Mechanism|
+|-|-|
+|dideoxy sequencing<br>Sanger sequencing|ddNTP as chain terminating nucleotides|
+|Illumina sequencing<br>2nd generation|reversible termination one by one|
+|single molecule realtime sequencing<br>SMRT<br>3rd generation|by fluorescent dye attached dNTPs|
+|nanopore sequencing<br>3rd generation|by electric current difference caused by different nucleotides passing the nanopore|
+|deep RNA sequencing<br>RNA-seq|entire repertoire of RNA<br>valuable tool for annotating genomes in different cells|
+|open reading frames<br>ORFs|DNA to codons|
+
+
+
+
+
+
 
 # 9.Models
 
