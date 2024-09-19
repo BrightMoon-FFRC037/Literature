@@ -103,6 +103,12 @@
 |ORC|origin recognition complex|
 |telomerase|maintain the telomeres|
 
+## RNA Replication
+Especially in RNA virus like SARS-CoV-2.
+|Protein|Function|
+|-|-|
+|replicase<br>RNA dependent RNA polymerase|from RNA to RNA|
+
 ## DNA Transcription
 
 |Protein|Function|
@@ -116,8 +122,11 @@
 |general transcription factors<br>(eukaryote)<br>TFIIA, TFIIB, TFIID...|to begin transcription|
 |TBP<br>TATA-binding protein|a subunit of TFIID to bind TATA box|
 |CTD<br>C-terminal domain, tail of RNA polymerase|be phosphorylated by TFIIH<br>make polymerase disengage from general transcription factors|
+|regulator|activator and repressor|
 |activator|bind to enhancer to attract general transcription factors and RNA polymerase II|
+|repressor|bind to operator to impede RNA polymerase binding|
 |mediator|1.allow activator communicate with RNA polymeraseII<br>2.position TFIIH near CTD|
+|CAP|an activator work with cAMP|
 |elongation factors|keep RNA polymerase elongating|
 |DNA topoisomerase<br>called DNA gyrase in bacteria||
 |reverse transcriptase enzyme|from mRNA to cDNA|
@@ -179,9 +188,11 @@
 |-|-|
 |replication origins|first be opened|
 |transcription unit|transcribed segment of DNA|
-|promoter||
+|promoter|binding RNA polymerase|
 |TATA box|in promoter to bind TBP, a subunit of TFIID|
-|enhancer||
+|enhancer|binding activator|
+|cis-regulatory DNA sequence|operator and enhancer|
+|operon|operated by binding of operator and repressor|
 |telomere|ends of DNA|
 
 
