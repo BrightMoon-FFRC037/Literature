@@ -1,4 +1,11 @@
 # 1.Order of Magnitudes
+
+## Acceleration
+
+|Process|Acceleration|
+|-|-|
+|cell fractionation by centrifugation|1000 to 150,000 times gravity|
+
 ## Speed
 
 |Process|Speed|
@@ -7,6 +14,9 @@
 |each RNA polymerase|50 nucleotides/second|
 |Dividing of *E.coli*|once/30 minutes|
 
+
+
+
 ## Length
 
 |Item|Length|
@@ -14,7 +24,11 @@
 |a bacterial cell|$1\mu \text{m}$|
 |a ribosome|20 nm|
 |membrane thickness|5 nm|
+|vesicle (liposome) diameter|25 nm ~ 1 μm|
+|virus|100 nm|
 |a frog egg|1mm|
+|skin cell|30 μm|
+|red blood cell|8 μm|
 |Leading Strand|$\infty$|
 |Lagging Strand|1000~2000 nucleotides for bacteria<br>100~200 nucleotides for eukaryotes|
 |RNA primers|10 nucleotides for eukaryotes|
@@ -48,6 +62,9 @@
 |-|-|
 |ATP : dATP|500 : 1|
 |mRNA : RNA|3~5 : 100|
+|cholesterol : lipid bilayer<br>in weight in animal cells |20 : 100|
+|protein : plasma membrane<br> in mass|1 : 2|
+|protein : lipid<br>in number|1 : 50|
 
 
 ## Number
@@ -61,7 +78,7 @@
 |a human|25,000 genes|
 |types of mRNA in each cell|10~15|
 |Human fibroblasts|divide 25~40 times in culture|
-
+|average division time of a normal cell<br>Hayflick limit|50~70|
 ## Duration
 
 |Process|Duration|
@@ -124,7 +141,7 @@ Especially in RNA virus like SARS-CoV-2.
 |CTD<br>C-terminal domain, tail of RNA polymerase|be phosphorylated by TFIIH<br>make polymerase disengage from general transcription factors|
 |regulator|activator and repressor|
 |activator|bind to enhancer to attract general transcription factors and RNA polymerase II|
-|repressor|bind to operator to impede RNA polymerase binding|
+|repressor or<br>inhibitor|bind to operator to impede RNA polymerase binding|
 |mediator|1.allow activator communicate with RNA polymeraseII<br>2.position TFIIH near CTD|
 |CAP|an activator work with cAMP|
 |elongation factors|keep RNA polymerase elongating|
@@ -233,7 +250,8 @@ Especially in RNA virus like SARS-CoV-2.
 |FRET<br>Fluorescence Resonance Energy Transfer|distance and interactions between molecules|
 |Biosensor<br>FRET as reporting parts combined with sensing parts||
 |FRAP<br>Fluorescence Recovery After Photobleaching|detect protein's kinetic parameters|
-|interference contrast optics|distinguish the internal structure of a cell|
+|SPT<br>single-particle tracking microscopy|relies on antibody-coated gold nanoparticles tagged with protein|
+|interference contrast optics<br>DIC|distinguish the internal structure of a cell|
 |phase contrast optics||
 |computed tomography<br>CT<br>and deconvolution|3D<br>40 μm in depth|
 |Structured Illumination Microscopy<br>SIM|100 nm|
@@ -264,6 +282,77 @@ Especially in RNA virus like SARS-CoV-2.
 |oulsed-field gel|chromosome, up to millions nucleotides|
 |bacterial artificial chromosome<br>BAC|maintain very long DNA, up to 1 million nucleotides|
 
+## Plasmid and its Components
+
+|Gene|Protein|Chemical|Function|
+|-|-|-|-|
+|Lac I|Lac repressor||express Lac inhibitor (repressor)|
+|||ampicillin|antibiotic|
+|||kanamycin|antibiotic|
+|||tetracycline|antibiotic|
+||T7 polymerase||as RNA polymerase to transcribe|
+|KanR|||kanamysin resistant gene, encoding a phosphotransferase to destroy kanamysin|
+|||IPTG|lactose analogs to bind Lac repressor and therefore activate lac operon transcription|
+|||X-gel|lactose analogs|
+|Lac Z|galactosidase|||
+|ROP|||regulate plasmid copy number|
+
+### Other Related Terms and its Meanings
+
+|Term|Meaning|Function|
+|-|-|-|
+|OD600|the optical density of a sample measured at a wavelength of 600 nm in 1 cm light path|measure cell population|
+|SDS|Sodium Dodecyl Sulfate|denature protein<br>disrupt cell walls|
+|PBS|Phosphate-buffered saline |a buffer solution (pH ~ 7.4) |
+
+## Cell Engineering
+
+|Term|Meaning|
+|-|-|
+|primary culture|directly from tissue|
+|embryonic stem cell|
+|pluripotent|
+|callus|undifferentiated plant tissue|
+|replicative cell sequence|
+|immortalized cell line|
+|culture shock|a protective mechanism to stop division|
+|transformed cell line|
+|B lymphocyte|
+|hybridoma|
+|monoclonal antibody|
+|organoid|
+
+
+## Purifying Proteins
+
+|Term|Meaning or Purpose|
+|-|-|
+|slurry or homogenate or extract|
+|preparatice ultracentrifuge|separate cell components by size and (buoyant) density|
+|centrifugation|1.nuclei sediment<br>2.mitochondria<br>3.vesicles<br>ribosomes<br>salt solution|
+|velocity sedimentation<br>differential centrifugation|shallow gradient|
+|equilibrium sedimentation<br>densty gradient centrifugation|steep gradient|
+|density gradient<br>sucrose+cesium chloride gradient|prevent convective mixing from distorting separation|
+|S value<br>sedimentation coefficient|
+|column chromatography|1.ion-exchange chromatography<br>2.hydrophobic chromatography<br>3.gel-filtration chromatography<br>4.affinity chromatography e.g. immunoaffinity chromatography and metal affinity chromatography|
+|High-performance liquid chromatography<br>HPLC||
+|immunoprecipitation|antibody-coated beads is added to a protein extract|
+|epitope|antigenic determinant|
+|tandem affinity purification tagging<br>TAP-tagging|two step strategy|
+|purified cell free system|
+
+## Analyzing Proteins
+
+|Term|Meaning or Function|
+|-|-|
+|sodium dodecyl sulfate polyacrylamide-gel electrophoresis<br>SDS-PAGE|1.unfold polypeptide chain<br>2.negative charge detergent<br>3.mass and subunit composition of protein|
+|Coomassie blue|the dye staining proteins|
+|2D gel electrophoresis|separated by<br>1.intrinsic charge<br>2.|
+|isoelectric focusing||
+
+
+
+
 ## DNA Sequencing
 
 |Method|Mechanism|
@@ -290,6 +379,70 @@ Especially in RNA virus like SARS-CoV-2.
   * $\text{growth rate} = f(\text{initial buoyant mass})$
   * Binomial partitioning model of
 mRNA and proteins
+
+# 10.Components of the Cell
+
+## Membrance Structure
+
+|Term|Meaning or Function|
+|-|-|
+|plasma membrane|1.communication<br>2.import and export molecules<br>3.growth and motility|
+|internal membrane|
+|lipid bilayer|
+|amphipathic
+|phospholipid|
+|phosphatidylcholine|a commom type of phospholipid|
+|hydrophilic head|choline and phosphate group|
+|hydrophobic tail|fatty acid|
+|cholesterol|make the membrane less flexible and less permeable|
+|glycolipid|sugar as hydrophilic head|
+|endoplasmic reticulum<br>ER|manufacture phospholipid|
+|scramblase|a type of transporter protein<br>remove phospholipid from one half and insert them in the other|
+|Golgi apparatus|1.cause asymmetry<br>2.add sugar to glycolipid|
+|flippase|transfer specific phospholipid from one side to the other|
+|membrane proteins|
+|glycoprotein|protein + oligosaccharide|
+|proteoglycan|protein + polysaccharide|
+|transporter|
+|ion channel|
+|anchor|
+|receptor|
+|enzyme|
+|transmembrane protein|
+|intergral membrane prorein|
+|peripheral membrane protein|
+|single-pass membrane protein|
+|multipass membrane protein|
+|β barrel|
+|α helix|
+|detergent|SDS|
+|micelle|
+|bacteriorhodopsin|a transmembrane pump|
+|retinal|
+|cell wall|
+|extra cellular matrix|
+|cell cortex|
+|spectrin|dimeric protein forming cell cortex in red blood cells|
+|actin|
+|myocin|motor protein|
+|membrane domain|funtionally specialized region|
+|tight junction| a kind of cell junctions|
+|oligosaccharide|
+|carbohydrate layer<br>or<br>glycocalyx|protect, lubricate, recognition, adhesion|
+|lectin|transmembrane protein specialized to bind oligosaccharide chains on endothelial cells|
+|neutrophils|a type of white blood cell|
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
