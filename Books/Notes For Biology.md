@@ -65,6 +65,8 @@
 |cholesterol : lipid bilayer<br>in weight in animal cells |20 : 100|
 |protein : plasma membrane<br> in mass|1 : 2|
 |protein : lipid<br>in number|1 : 50|
+|$c(Na^+)_{extra}：c(Na^+)_{cytosol}$|10$\sim$ 30 : 1|
+|$c(K^+)_{cytosol}：c(K^+)_{extra}$|10$\sim$ 30 : 1|
 
 
 ## Number
@@ -84,6 +86,7 @@
 |Process|Duration|
 |-|-|
 |DNA Synthesis phase<br>S phase|mammalian cell: 8 hours<br>yeast: 40 minutes|
+|$Na^+$ pumping cycle|10 ms|
 
 ## Time
 
@@ -176,11 +179,20 @@ Especially in RNA virus like SARS-CoV-2.
 |RecA|*E. coli* Homologous recombination<br>searching and strand exchange|
 |Rad51|eukaryotes Homologous recombination<br>searching and strand exchange|
 
-## Mitocondrion
+## ATP Related Process
 
 |Protein|Function|
 |-|-|
-|ATP synthase|ADP $\rightarrow$ ATP|
+|V-type ATPase<br>V stands for vacuolar<br>$V_o$ integral domain and $V_1$ peripheral domain|acidifying intracellular compartments|
+||
+|F-type ATPase<br>ATP synthase|ADP $\rightarrow$ ATP<br>oxidative phosphorylation <br>photophosphorylation|
+
+## Enzyme Kinetics
+* To study the mechanism of purifies enzymes:
+  * 3-D structure
+  * site-directed mutagenesis
+  * rate of a reaction and its response to changing parameters (enzyme kinetics)
+  
 
 # 3.RNA
 
@@ -347,8 +359,17 @@ Especially in RNA virus like SARS-CoV-2.
 |-|-|
 |sodium dodecyl sulfate polyacrylamide-gel electrophoresis<br>SDS-PAGE|1.unfold polypeptide chain<br>2.negative charge detergent<br>3.mass and subunit composition of protein|
 |Coomassie blue|the dye staining proteins|
-|2D gel electrophoresis|separated by<br>1.intrinsic charge<br>2.|
-|isoelectric focusing||
+|2D gel electrophoresis|separated by<br>1.intrinsic charge (isoeletric point)<br>2.size|
+|isoelectric focusing|
+|SDS-PAGE|
+|Western blotting<br>immunoblotting|
+|hydrodynamic measurements|
+|mass spectrometry|
+|ion source|
+|matrix-assisted laser desorption ionization<br>MALDI|
+|mass analyzer|
+|detector|
+
 
 
 
@@ -363,6 +384,14 @@ Especially in RNA virus like SARS-CoV-2.
 |nanopore sequencing<br>3rd generation|by electric current difference caused by different nucleotides passing the nanopore|
 |deep RNA sequencing<br>RNA-seq|entire repertoire of RNA<br>valuable tool for annotating genomes in different cells|
 |open reading frames<br>ORFs|DNA to codons|
+
+## Others
+
+|Term|Meaning|
+|-|-|
+|microarray|detect gene expression|
+|RNA sequencing|
+
 
 
 
@@ -380,6 +409,10 @@ Especially in RNA virus like SARS-CoV-2.
   * Binomial partitioning model of
 mRNA and proteins
 
+* ATP synthase
+  * electron transfer and ATP synthesis are obligately coupled
+    * chemiosmotic model
+    * proton motive force
 # 10.Components of the Cell
 
 ## Membrance Structure
@@ -389,7 +422,7 @@ mRNA and proteins
 |plasma membrane|1.communication<br>2.import and export molecules<br>3.growth and motility|
 |internal membrane|
 |lipid bilayer|
-|amphipathic
+|amphipathic|a molecules with both hydrophilic and hydrophobic parts|
 |phospholipid|
 |phosphatidylcholine|a commom type of phospholipid|
 |hydrophilic head|choline and phosphate group|
@@ -397,9 +430,9 @@ mRNA and proteins
 |cholesterol|make the membrane less flexible and less permeable|
 |glycolipid|sugar as hydrophilic head|
 |endoplasmic reticulum<br>ER|manufacture phospholipid|
-|scramblase|a type of transporter protein<br>remove phospholipid from one half and insert them in the other|
+|scramblase|a type of transporter protein<br>remove phospholipid from one half and insert them in the other randomly|
 |Golgi apparatus|1.cause asymmetry<br>2.add sugar to glycolipid|
-|flippase|transfer specific phospholipid from one side to the other|
+|flippase|transfer **specific** phospholipid from one side to the other, consuming ATP|
 |membrane proteins|
 |glycoprotein|protein + oligosaccharide|
 |proteoglycan|protein + polysaccharide|
@@ -408,29 +441,63 @@ mRNA and proteins
 |anchor|
 |receptor|
 |enzyme|
-|transmembrane protein|
-|intergral membrane prorein|
-|peripheral membrane protein|
+|transmembrane protein|belongs to integral membrane protein|
+|lipid -linked protein|belongs to integral membrane protein|
+|monolayer attached protein|belongs to integral membrane protein|
+|intergral membrane prorein|can be removed only by disrupting the bilayer using detergent|
+|peripheral membrane protein| can be removed by gentle extraction procedures|
+|protein-attached|belongs to peripheral membrane protein<br>attached to membrane protein instead of lipid|
 |single-pass membrane protein|
 |multipass membrane protein|
 |β barrel|
 |α helix|
 |detergent|SDS|
-|micelle|
+|micelle|small irregularly shaped cluster|
 |bacteriorhodopsin|a transmembrane pump|
 |retinal|
 |cell wall|
 |extra cellular matrix|
-|cell cortex|
+|cell cortex|specialized inner layer in animal cytoplasma governing shape and movement|
 |spectrin|dimeric protein forming cell cortex in red blood cells|
+|attachment protein|
 |actin|
 |myocin|motor protein|
 |membrane domain|funtionally specialized region|
 |tight junction| a kind of cell junctions|
 |oligosaccharide|
 |carbohydrate layer<br>or<br>glycocalyx|protect, lubricate, recognition, adhesion|
-|lectin|transmembrane protein specialized to bind oligosaccharide chains on endothelial cells|
+|lectin|transmembrane protein specialized to bind oligosaccharide chains (glycolipid) on endothelial cells|
 |neutrophils|a type of white blood cell|
+
+## Membrane Function
+
+|Term|Meaning|Supplements|
+|-|-|-|
+|membrane transport protein|
+|transporter|by changing shape|
+|(ion) channel|pass by diffusion|
+|facilitated transport|
+|simple diffusion|
+|cell respiration|
+|membrane potential|
+|resting membrane potential|
+|passive transport|
+|active transport|
+|electrochemical potential|
+|osmosis|water moves down its concentration gratient|
+|aquaporin|specialized channels for water|
+|ruegor pressure|
+|glucose transporter||passive transport<br>D-glucose is used as energy|
+|glucose||produce by glycogen|
+|pumps|gradient-driven;<br>ATD-driven;<br>light-driven|
+|ATP-driven $Na^+$ pump||$Na^+-K^+$ ATPase<br>$Na^+-K^+$pump|
+|ATP-driven $Ca^{2+}$ pump|
+|symport|
+|antiport|
+|uniport|
+|$Na^+-H^+$ exchanger||antiport|
+
+
 
 
 
