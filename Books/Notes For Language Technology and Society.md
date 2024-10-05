@@ -1,7 +1,10 @@
 # Terms and Concepts
 ## Terms in Linguistics
-* logogram: s symbol represents a word or phrase.
+* logogram: s symbol represents a word or phrase. concrete nouns and verbs.
 * phonogram: a symbol represents a sound or syllable.
+  * homophonous word, rebus principle
+  * phoneme, acrophonic principle
+* ideogram: mute signs added classificatory elements.
 * morpheme <n.>, smallest unit of meaning similar to word, that word can be divided into.
 * grapheme <n.>, smallest unit of meaning.
   * allograph <n.>, a variant form of grapheme.
@@ -49,6 +52,7 @@
         * katakana
     * segmental, represent sound on the level of individual sounds (consonants and vowels).
       * abjad, with mostly consonants
+        * Egyptian hieroglyphic writing
         * Hebrew
         * Arabic
         * Phoenician
@@ -78,3 +82,7 @@
           * Armenian
           * Korean
       
+## Hieroglyphs
+* ancient Egypt
+* from 3200 BCE to 400 CE
+* Greek for official documents while Egyptian hieroglyphs for religious, literary and scientific texts.
