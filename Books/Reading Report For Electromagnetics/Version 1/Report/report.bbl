@@ -1,9 +1,28 @@
 \begin{thebibliography}{1}
 
-\bibitem{TheCell}
-Bruce Alberts, Rebecca Heald, Alexander Johnson, David Morgan, Martin Raff,
-  Keith Roberts, and Peter Walter.
-\newblock {\em Molecular Biology of the Cell}.
-\newblock W. W. Norton and Company, 7th edition, 2022.
+\bibitem{circuit}
+{\em 电路分析原理}.
+\newblock 北京大学信息科学技术学院系列教材.
+  清华大学出版社, 2014.
+
+\bibitem{Capacitive}
+Capacitive touch screens.
+\newblock
+  \url{https://www.iqsdirectory.com/articles/membrane-switch/capacitive-touch-screens.html},
+  2024.
+\newblock Accessed: 2024-11-16.
+
+\bibitem{ITO}
+Wikipedia contributors.
+\newblock Indium tin oxide.
+\newblock \url{https://en.wikipedia.org/wiki/Indium_tin_oxide}, 2024.
+\newblock Accessed: 2024-11-16.
+
+\bibitem{Touch}
+Shuo Gao, Shuo Yan, Hang Zhao, and Arokia Nathan.
+\newblock {\em Touch-Based Human-Machine Interaction: Principles and
+  Applications}.
+\newblock Springer International Publishing AG, Cham, 1;1st 2021; edition,
+  2021.
 
 \end{thebibliography}

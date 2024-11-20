@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.9.23)  29 OCT 2024 21:25
+This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.9.23)  16 NOV 2024 22:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -532,29 +532,72 @@ Package chemgreek Info: Activating mapping `fontspec' on line 17.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-File: ../Figures/example 1.png Graphic file (type bmp)
-<../Figures/example 1.png>
-File: ../Figures/example 2.png Graphic file (type bmp)
-<../Figures/example 2.png>
-File: ../Figures/example 3.png Graphic file (type bmp)
-<../Figures/example 3.png>
 
 LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <10.53937> not available
-(Font)              size <10.95> substituted on input line 58.
+(Font)              size <10.95> substituted on input line 42.
 
-(report.bbl
+File: ../Figures/resistive.png Graphic file (type bmp)
+<../Figures/resistive.png>
+
 
 [1
 
 ]
+File: ../Figures/capacitive.png Graphic file (type bmp)
+<../Figures/capacitive.png>
+
 
 LaTeX Font Info:    Font shape `TU/SimSun(0)/m/sl' in size <10.53937> not avail
 able
 (Font)              Font shape `TU/SimSun(0)/m/it' tried instead on input line 
-8.
-[2])
+95.
+[2]
+File: ../Figures/self.png Graphic file (type bmp)
+<../Figures/self.png>
+File: ../Figures/piezoelectric.png Graphic file (type bmp)
+<../Figures/piezoelectric.png>
+File: ../Figures/opamp.png Graphic file (type bmp)
+<../Figures/opamp.png>
 
-[3] (report.aux)
+
+[3]
+
+[4] (report.bbl
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "FangSong/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "FangSong/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "FangSong/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'FangSong(0)' created for font 'FangSong'
+(fontspec)             with options [Script={CJK}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"FangSong/OT:script=hani;language=dflt;"
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--14
+[]\TU/lmr/m/n/10.53937 Capacitive touch screens.  $[][][][][] [] [] [] [][][] [
+] [][][][][][][][][][][][] [] [][][] [] [][][][][][][][] []
+ []
+
+)
+
+[5] (report.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2022/07/14>
@@ -566,12 +609,12 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 9728 strings out of 409029
- 256869 string characters out of 5762019
- 677005 words of memory out of 5000000
- 32278 multiletter control sequences out of 15000+600000
- 564971 words of font info for 88 fonts, out of 8000000 for 9000
+ 9914 strings out of 409029
+ 267282 string characters out of 5762019
+ 685042 words of memory out of 5000000
+ 32450 multiletter control sequences out of 15000+600000
+ 565027 words of font info for 95 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 93i,8n,111p,492b,358s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 93i,6n,111p,492b,445s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on report.pdf (3 pages).
+Output written on report.pdf (5 pages).
