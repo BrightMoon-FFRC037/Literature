@@ -3,7 +3,7 @@
 \bibitem{circuit}
 {\em 电路分析原理}.
 \newblock 北京大学信息科学技术学院系列教材.
-  清华大学出版社, 2014.
+  清华大学出版社, 2022.
 
 \bibitem{Capacitive}
 Capacitive touch screens.
@@ -11,6 +11,13 @@ Capacitive touch screens.
   \url{https://www.iqsdirectory.com/articles/membrane-switch/capacitive-touch-screens.html},
   2024.
 \newblock Accessed: 2024-11-16.
+
+\bibitem{ePaper-web}
+Electronic paper explained.
+\newblock
+  \url{https://www.visionect.com/blog/electronic-paper-explained-what-is-it-and-how-does-it-work/},
+  2024.
+\newblock Accessed: 2024-11-22.
 
 \bibitem{ITO}
 Wikipedia contributors.
@@ -24,5 +31,20 @@ Shuo Gao, Shuo Yan, Hang Zhao, and Arokia Nathan.
   Applications}.
 \newblock Springer International Publishing AG, Cham, 1;1st 2021; edition,
   2021.
+
+\bibitem{ball}
+Tomohiro Tanikawa, Makoto Omodani, Yasusuke Takahashi, and Shuichi Maeda.
+\newblock Basic characteristics of ball motion in a twisting ball display.
+\newblock {\em NIP and Digital Fabrication Conference}, 46:557--561, 11 2002.
+
+\bibitem{newconcept}
+赵凯华 and 罗蔚茵.
+\newblock {\em 新概念物理教程: 力学}.
+\newblock 高等教育出版社, 北京, 第3版 edition, 2023.
+
+\bibitem{tablet}
+马群刚.
+\newblock {\em 非主动发光平板显示技术}.
+\newblock 电子工业出版社, 北京, 2013.
 
 \end{thebibliography}
